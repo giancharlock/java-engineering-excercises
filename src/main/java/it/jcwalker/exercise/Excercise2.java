@@ -1,4 +1,4 @@
-package it.jcwalker.excercise;
+package it.jcwalker.exercise;
 
 import javax.swing.event.ListSelectionEvent;
 

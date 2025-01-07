@@ -1,4 +1,4 @@
-package it.jcwalker.excercise;
+package it.jcwalker.exercise;
 
 import java.util.Arrays;
 import java.util.Scanner;
